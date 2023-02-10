@@ -27,6 +27,15 @@ class StartScreen extends StatelessWidget {
                 fontWeight: FontWeight.w300,
                 fontSize: 22,
               ),
+            ),
+            Text(
+              "Earn money from Recycling 🤍",
+              style: TextStyle(
+                fontFamily: 'pacifico',
+                color: Color(0xff283c5f),
+                fontWeight: FontWeight.w300,
+                fontSize: 22,
+              ),
             )
           ],
         ),
